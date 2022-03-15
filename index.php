@@ -5,14 +5,14 @@
         <title>Johanna Herrero Pozuelo</title>
         <meta charset="UTF-8">
         <style>
-			@import url('http://fonts.cdnfonts.com/css/04b30');
-			@import url('http://www.fontsaddict.com/fontface/mario-kart-ds-regular.ttf');
+	@import url('http://fonts.cdnfonts.com/css/04b30');
+	@import url('http://www.fontsaddict.com/fontface/mario-kart-ds-regular.ttf');
 			/* 
 				Author     : johanna Herrero Pozuelo
 				
 			*/
 			
-			body{
+body{
 	font-family:OCR A Std, monospace;
 	/*background-image: url(images/retro4.jpg); */
      /* background-image: url("https://acegif.com/wp-content/gif/snwflks-5.gif"); */
@@ -43,36 +43,36 @@ h2{
 }
 			
 			
-			table {
-				margin: 5rem auto;
-			table-layout: fixed;
-			width: 100%;
-			height:100px;
-			color:white;
-			border-collapse: collapse;
-			border: 4px solid black;
-			text-align:left;
-			padding:2px;
-			}
-			td{
-                            background: purple;
-				text-align:left;
-				border: 4px solid black;width:90px;
-			}
+table {
+	margin: 5rem auto;
+	table-layout: fixed;
+	width: 100%;
+	height:100px;
+	color:white;
+	border-collapse: collapse;
+	border: 4px solid black;
+	text-align:left;
+	padding:2px;
+}
+td{
+        background: purple;
+	text-align:left;
+	border: 4px solid black;width:90px;
+}
 
-			th{
-                            background: purple;
-				border: 4px solid black;
-			}
-			.ver{
-				margin-top:2px;
-				margin-left:25px;
-			}
-			.play{
-				margin-top:2px;
-				margin-left:30px;
-			}
-			footer{
+th{
+    background: purple;
+    border: 4px solid black;
+}
+.ver{
+    margin-top:2px;
+    margin-left:25px;
+}
+.play{
+    margin-top:2px;
+    margin-left:30px;
+}
+footer{
        
        background: blueviolet;
        border-radius: 5px 5px 5px 5px;
@@ -96,19 +96,17 @@ strong{
         font-size: 20px;
 }
 strong a{
-    color:black;
-    text-decoration: none;
+        color:black;
+        text-decoration: none;
 }
 strong a:hover{
-    color:blue;
+        color:blue;
 }
 .t2{
-    margin-top: 40px;
-    background: darkblue;
-    text-align: center;
-    font-size: 32px;
-    /*animation-name: example;
-    animation-duration: 6s;*/
+        margin-top: 40px;
+        background: darkblue;
+        text-align: center;
+        font-size: 32px;
 }
 .t2:hover{
     background:green;
