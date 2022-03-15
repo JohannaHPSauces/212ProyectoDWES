@@ -102,25 +102,18 @@ strong a{
 strong a:hover{
     color:blue;
 }
-                        .t2{
-                            margin-top: 40px;
-                            background: darkblue;
-                            text-align: center;
-                            font-size: 32px;
-                            /*animation-name: example;
-                            animation-duration: 6s;*/
-                        }
-                       /*@keyframes example {
-                        0%   {background-color:red; left:0px; top:0px;}
-                        25%  {background-color:yellow; left:200px; top:0px;}
-                        50%  {background-color:blue; left:200px; top:200px;}
-                        75%  {background-color:green; left:0px; top:200px;}
-                        100% {background-color:red; left:0px; top:0px;}
-                        }*/
-                        .t2:hover{
-                            background:green;
-                            color: fuchsia;
-                        }
+.t2{
+    margin-top: 40px;
+    background: darkblue;
+    text-align: center;
+    font-size: 32px;
+    /*animation-name: example;
+    animation-duration: 6s;*/
+}
+.t2:hover{
+    background:green;
+    color: fuchsia;
+}
 		</style>
     </head>
     <body>
