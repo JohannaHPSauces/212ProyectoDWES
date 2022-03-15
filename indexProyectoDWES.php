@@ -5,51 +5,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-       /* 
-    Author     : johanna Herrero Pozuelo
-	
-*/
+        @import url('http://fonts.cdnfonts.com/css/04b30');
+        @import url('http://www.fontsaddict.com/fontface/mario-kart-ds-regular.ttf');
 
 
 body{
 	font-family:OCR A Std, monospace;
-	/*background-image: url(images/fondo222.jpg); */
+	/*background-image: url(images/retro4.jpg); */
      /* background-image: url("https://acegif.com/wp-content/gif/snwflks-5.gif"); */
 	background-repeat:no-repeat;
-	background-color:black;
+	background-color:rgb(215, 185, 250);
         background-size: cover;
 	
 }
-
+/* caja titulo */
 h2{ 
 	font-family: '04b', sans-serif;
 	text-shadow: black 0.1em 0.1em 0.2em;
 	text-align:center;
-	padding:6px;
-	color:red;
+	padding:10px;
+	color:crimson;
 	background-color:blueviolet;
 	margin-top:0%;
-	margin-right:10%;
-	margin-left:10%;
-	border: 4px dotted palegreen;
-	border-radius: 35px 0px 35px 0px;
-	-moz-border-radius: 35px 0px 35px 0px;
-	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 8px dotted blue;
 }
 
 /*caja debajo de titulo*/
 .caja1{
-	text-shadow: black 0.1em 0.1em 0.2em;
-	background-color:red;
-	margin-top:0%;
-	margin-right:10%;
-	margin-left:10%;
-        border: 4px inset yellow;
+        background-color:red;
+        border: 4px inset blue;
 	border-radius: 35px 0px 35px 0px;
 	-moz-border-radius: 35px 0px 35px 0px;
 	-webkit-border-radius: 35px 0px 35px 0px;
 }
-
 
 .contenedor{
         height: 350px;width: 1250px;
@@ -64,17 +52,17 @@ h2{
 ul{
         display: flex;
         flex-direction: column;
-        background: black;
+       /* background: black;*/
         opacity: 0.8;
         border-radius: 5%;
-        border:4px solid rgb(255, 0, 128);
+        /*border:4px solid rgb(255, 0, 128);*/
         width: 200%;height: 110%;
         margin-top:-65px;
         /* margin-top: 55px; */
         /* margin-left: 100px; */
 }
 li a{
-    
+        color:white;
         font-weight: bold;
         text-decoration: none;
 }
@@ -83,16 +71,17 @@ li:first-letter {
 }
 
 ul li {
-        
-        margin-top:5px ;
+        background: blueviolet;
+        color:white;
+        margin-top:10px ;
         /* background-color: azure; */
         list-style: none;
         /* text-align: center; */
         font-size: 20px;
 }
 ul li:hover{
-        width: 1180px;height: 35px;
-        background: lime;
+        width: 1211px;height: 35px;
+        background: crimson;
         color: purple;
         text-decoration:none; 
 
@@ -136,20 +125,20 @@ strong a:hover{
     <body>
         <header>
             <h2>DESARROLLO WEB ENTORNO SERVIDOR </h2> 
-			<div class="caja1"></div>
+            <div class="caja1"></div>
         </header> 
 		<div class="contenedor">
-			<ul>
-                <li><a href="webroot/Ejercicios_T1.pdf" target="_blank" class="c1">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-                <li><a href="indext2.php"  class="c2">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y EXPLOTACIÓN</a></li>
-                <li><a href="../proyectoTema3/indext3.php" class="c3">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP  </a></li>
-		<li><a href="../proyectoTema4/indext4.php" class="c4">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
-                <li><a href="../212DWESProyectoTema5/index.php" class="c4">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO </a></li>
-		<li><a href="pag3_xml.html" class="c4">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a></li>
-		<li><a href="pag3_xml.html" class="c4">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB </a></li>
-		<!--<li><a href="pag3_xml.html" class="c4">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS  </a></li>
-		<li><a href="pag3_xml.html" class="c4">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </a></li>-->
-            </ul> 
+                    <ul>
+                        <li><a href="index.php" class="c1">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                        <li><a href="indext2.php"  class="c2">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y EXPLOTACIÓN</a></li>
+                        <li><a href="../proyectoTema3/indext3.php" class="c3">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP  </a></li>
+                        <li><a href="../proyectoTema4/indext4.php" class="c4">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
+                        <li><a href="../212DWESProyectoTema5/index.php" class="c4">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO </a></li>
+                        <li><a href="pag3_xml.html" class="c4">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a></li>
+                        <li><a href="pag3_xml.html" class="c4">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB </a></li>
+                        <!--<li><a href="pag3_xml.html" class="c4">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS  </a></li>
+                        <li><a href="pag3_xml.html" class="c4">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </a></li>-->
+                    </ul> 
         </div>
     <footer>
         2020-21 I.E.S. Los sauces. ©Todos los derechos reservados. <strong> <a href="http://daw212.sauces.local/">Johanna Herrero Pozuelo</a></strong>
