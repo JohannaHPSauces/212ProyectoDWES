@@ -130,19 +130,19 @@ strong a:hover{
 		<div class="contenedor">
                     <ul>
                         <li><a href="index.php" class="c1">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-                        <li><a href="indext2.php"  class="c2">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y EXPLOTACIÓN</a></li>
-                        <li><a href="../proyectoTema3/indext3.php" class="c3">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP  </a></li>
-                        <li><a href="../proyectoTema4/indext4.php" class="c4">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
-                        <li><a href="../212DWESProyectoTema5/index.php" class="c4">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO </a></li>
-                        <li><a href="pag3_xml.html" class="c4">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a></li>
-                        <li><a href="pag3_xml.html" class="c4">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB </a></li>
+                        <li><a href=""  class="c2">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y EXPLOTACIÓN</a></li>
+                        <li><a href="" class="c3">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP  </a></li>
+                        <li><a href="" class="c4">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP </a></li>
+                        <li><a href="" class="c4">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO </a></li>
+                        <li><a href="" class="c4">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a></li>
+                        <li><a href="" class="c4">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB </a></li>
                         <!--<li><a href="pag3_xml.html" class="c4">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS  </a></li>
                         <li><a href="pag3_xml.html" class="c4">TEMA 9: DESARROLLO DE APLICACIONES WEB HÍBRIDAS </a></li>-->
                     </ul> 
         </div>
     <footer>
-        2020-21 I.E.S. Los sauces. ©Todos los derechos reservados. <strong> <a href="http://daw212.sauces.local/">Johanna Herrero Pozuelo</a></strong>
-            <a href="https://github.com/JohannaHPSauces"><img src="webroot/images/git.png" alt="" class="git"></a>
+        2021-2022 I.E.S. Los sauces. ©Todos los derechos reservados. <strong> <a href="http://daw212.sauces.local/">Johanna Herrero Pozuelo</a></strong>
+            <a href="https://github.com/JohannaHPSauces"><img src="../images/git.png" alt="" class="git"></a>
     </footer>
 </body>
 </html>

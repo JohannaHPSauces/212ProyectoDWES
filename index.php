@@ -50,19 +50,19 @@ h2{
 			height:100px;
 			color:white;
 			border-collapse: collapse;
-			border: 4px solid purple;
+			border: 4px solid black;
 			text-align:left;
 			padding:2px;
 			}
 			td{
-                            background: blue;
+                            background: purple;
 				text-align:left;
-				border: 4px solid purple;width:90px;
+				border: 4px solid black;width:90px;
 			}
 
 			th{
-                            background: blue;
-				border: 4px solid purple;
+                            background: purple;
+				border: 4px solid black;
 			}
 			.ver{
 				margin-top:2px;
@@ -73,24 +73,35 @@ h2{
 				margin-left:30px;
 			}
 			footer{
-                                background: blueviolet;
-                                border-radius: 5px 5px 5px 5px;
-                                font-weight: bold;
-                                position: fixed;
-                                bottom: -1px;
-                                width: 100%;
-                                height: 60px;
-                                color: black;
-                                text-align: center;
-                                padding: 2px;
-                                vertical-align: middle;
+       
+       background: blueviolet;
+       border-radius: 5px 5px 5px 5px;
+       font-weight: bold;
+       position: fixed;
+       bottom: -1px;
+       width: 100%;
+       height: 60px;
+       color: black;
+       text-align: center;
+       padding: 2px;
+       vertical-align: middle;
 }
-			a img{
-				margin:auto;
-				width:35px;
-				height:35px;
-			}
-                        
+a img{
+        display: flex;
+	margin:auto;
+	width:35px;
+	height:35px;
+}
+strong{
+        font-size: 20px;
+}
+strong a{
+    color:black;
+    text-decoration: none;
+}
+strong a:hover{
+    color:blue;
+}
                         .t2{
                             margin-top: 40px;
                             background: darkblue;
@@ -120,40 +131,22 @@ h2{
         <main>
 		<table class="default">
 		  <tr class="c1">
-			<th class="p1">Ejercicio Tema1 Johanna</th>
-                        <td><a href="codigoPHP/Ejercicio00.php">
+			<th class="p1">Ejercicios Tema1 Johanna</th>
+                        <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="blank">
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
-                        <td><a href="mostrarCodigoPHP/mEjercicio00.php" >
-			<img src="../images/play.png" class="play" width="30" height="30" ></td>
 		  </tr>
-		  <tr>
-			<th class="p1">Ejercicio Tema1 Isabel</th>
-                        <td><a  href="codigoPHP/Ejercicio01.php" >
-                            <img src="../images/ver.png" class="ver" width="40" height="40" ></td>
-                            <td><a href="mostrarCodigoPHP/mEjercicio01.php"  >
-			<img src="../images/play.png" class="play" width="30" height="30" ></td>
-		  </tr>
-		  <tr>
-			<th class="p1">Ejercicio Tema1 Oscar</th>
-                        <td><a  href="codigoPHP/Ejercicio02.php" >
-			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
-                        <td><a href="mostrarCodigoPHP/mEjercicio02.php" >
-			<img src="../images/play.png" class="play" width="30" height="30" ></td>
-                   </tr>
                     <tr>
-			<th class="p1">Ejercicio Tema1 Alberto</th>
-                        <td><a  href="codigoPHP/Ejercicio02.php" >
+			<th class="p1">Ejercicios Tema1 Alberto</th>
+                        <td><a  href="doc/Ejercicios_T1_Alberto.pdf" target="blank" >
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
-                        <td><a href="mostrarCodigoPHP/mEjercicio02.php" >
-			<img src="../images/play.png" class="play" width="30" height="30" ></td>
                    </tr>
 		</table>
            
         </main>
-        <footer>
-		2021-22 I.E.S. Los sauces. ©Todos los derechos reservados. Johanna Herrero Pozuelo
-		<a  href="https://github.com/JohannaHPSauces/proyectoTema3"><img src="../images/git.png" class="git"></a>
-	</footer>
+         <footer>
+        2021-2022 I.E.S. Los sauces. ©Todos los derechos reservados. <strong> <a href="http://daw212.sauces.local/">Johanna Herrero Pozuelo</a></strong>
+            <a href="https://github.com/JohannaHPSauces"><img src="../images/git.png" alt="" class="git"></a>
+        </footer>
 			
     </body>
 </html>
