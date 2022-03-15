@@ -46,7 +46,7 @@ h2{
 			table {
 				margin: 5rem auto;
 			table-layout: fixed;
-			width: 100%;
+			width: 80%;
 			height:100px;
 			color:white;
 			border-collapse: collapse;
@@ -55,13 +55,13 @@ h2{
 			padding:2px;
 			}
 			td{
-                            background: purple;
+                            background: darkorchid;
 				text-align:left;
 				border: 4px solid black;width:90px;
 			}
 
 			th{
-                            background: purple;
+                            background: darkorchid;
 				border: 4px solid black;
 			}
 			.ver{
@@ -125,7 +125,7 @@ strong a:hover{
     </head>
     <body>
         <header>
-            <h2>DESARROLLO WEB ENTORNO SERVIDOR </h2> 
+            <h2>EJERCICIOS TEMA1 </h2> 
 	<div class="caja1"></div>
 	</header> 
         <main>
