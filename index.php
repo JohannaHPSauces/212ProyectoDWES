@@ -73,7 +73,6 @@ th{
     margin-left:30px;
 }
 footer{
-       
        background: blueviolet;
        border-radius: 5px 5px 5px 5px;
        font-weight: bold;
@@ -121,11 +120,11 @@ strong a:hover{
 	</header> 
         <main>
 		<table class="default">
-		  <tr class="c1">
+                    <tr class="c1">
 			<th class="p1">Ejercicios Tema1 Johanna</th>
                         <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="blank">
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
-		  </tr>
+                    </tr>
                     <tr>
 			<th class="p1">Ejercicios Tema1 Alberto</th>
                         <td><a  href="doc/Ejercicios_T1_Alberto.pdf" target="blank" >
@@ -136,7 +135,6 @@ strong a:hover{
          <footer>
         2021-2022 I.E.S. Los sauces. ©Todos los derechos reservados. <strong> <a href="http://daw212.sauces.local/">Johanna Herrero Pozuelo</a></strong>
             <a href="https://github.com/JohannaHPSauces/212ProyectoDWES/tree/developer" target="blank"><img src="../images/git.png" alt="" class="git"></a>
-        </footer>
-			
+        </footer>	
     </body>
 </html>
