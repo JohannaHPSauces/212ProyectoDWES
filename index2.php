@@ -132,17 +132,17 @@ strong a:hover{
 		<table class="default">
 		  <tr class="c1">
 			<th class="p1">Documentacion Tema2 Johanna Ubuntu</th>
-                        <td><a href="doc/EstudioTema2ub_Johanna.pdf" target="blank">
+                        <td><a href="doc/EstudioTema2ub_Johanna.pdf" target="_blank">
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
 		  </tr>
                   <tr class="c1">
 			<th class="p1">Documentacion Tema2 Johanna Windows</th>
-                        <td><a href="doc/EstudioTema2w_Johanna.pdf" target="blank">
+                        <td><a href="doc/EstudioTema2w_Johanna.pdf" target="_blank">
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
 		  </tr>
                     <tr>
 			<th class="p1">Documentacion Tema2 Alberto</th>
-                        <td><a  href="doc/EstudioTema2_Alberto.pdf" target="blank" >
+                        <td><a  href="doc/EstudioTema2_Alberto.pdf" target="_blank" >
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
                    </tr>
 		</table>

@@ -70,7 +70,7 @@ th{
     margin-top:2px;
     margin-left:30px;
 }
-footer{
+
 			th{
                             background: darkorchid;
 				border: 4px solid black;
@@ -83,7 +83,7 @@ footer{
 				margin-top:2px;
 				margin-left:30px;
 			}
-			footer{
+footer{
        background: blueviolet;
        border-radius: 5px 5px 5px 5px;
        font-weight: bold;
@@ -133,12 +133,12 @@ strong a:hover{
 		<table class="default">
                     <tr class="c1">
 			<th class="p1">Ejercicios Tema1 Johanna</th>
-                        <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="blank">
+                        <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="_blank">
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
                     </tr>
                     <tr>
 			<th class="p1">Ejercicios Tema1 Alberto</th>
-                        <td><a  href="doc/Ejercicios_T1_Alberto.pdf" target="blank" >
+                        <td><a  href="doc/Ejercicios_T1_Alberto.pdf" target="_blank" >
 			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
                    </tr>
 		</table>
