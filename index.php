@@ -134,12 +134,12 @@ strong a:hover{
                     <tr class="c1">
 			<th class="p1">Ejercicios Tema1 Johanna</th>
                         <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="_blank">
-			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
+			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
                     </tr>
                     <tr>
 			<th class="p1">Ejercicios Tema1 Alberto</th>
                         <td><a  href="doc/Ejercicios_T1_Alberto.pdf" target="_blank" >
-			<img src="../images/ver.png" class="ver" width="40" height="40" ></td>
+			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
                    </tr>
 		</table>
         </main>
