@@ -32,7 +32,6 @@ h2{
 	margin-top:0%;
 	border: 8px dotted blue;
 }
-
 /*caja debajo de titulo*/
 .caja1{
         background-color:red;
@@ -43,23 +42,22 @@ h2{
 }
 			
 			
-table {
-	margin: 5rem auto;
-	table-layout: fixed;
-	width: 100%;
-	height:100px;
-	color:white;
-	border-collapse: collapse;
-	border: 4px solid black;
-	text-align:left;
-	padding:2px;
-}
-td{
-        background: purple;
-	text-align:left;
-	border: 4px solid black;width:90px;
-}
-
+			table {
+				margin: 5rem auto;
+			table-layout: fixed;
+			width: 80%;
+			height:100px;
+			color:white;
+			border-collapse: collapse;
+			border: 4px solid black;
+			text-align:left;
+			padding:2px;
+			}
+			td{
+                            background: darkorchid;
+				text-align:left;
+				border: 4px solid black;width:90px;
+			}
 th{
     background: purple;
     border: 4px solid black;
@@ -73,6 +71,19 @@ th{
     margin-left:30px;
 }
 footer{
+			th{
+                            background: darkorchid;
+				border: 4px solid black;
+			}
+			.ver{
+				margin-top:2px;
+				margin-left:25px;
+			}
+			.play{
+				margin-top:2px;
+				margin-left:30px;
+			}
+			footer{
        background: blueviolet;
        border-radius: 5px 5px 5px 5px;
        font-weight: bold;
@@ -115,7 +126,7 @@ strong a:hover{
     </head>
     <body>
         <header>
-            <h2>DESARROLLO WEB ENTORNO SERVIDOR </h2> 
+            <h2>EJERCICIOS TEMA1 </h2> 
 	<div class="caja1"></div>
 	</header> 
         <main>
