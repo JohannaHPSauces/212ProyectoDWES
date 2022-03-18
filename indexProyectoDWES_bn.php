@@ -128,7 +128,7 @@ a:hover{
     </head>
     <body>
         <header>
-            <h2>DESARROLLO WEB ENTORNO SERVIDOR </h2> 
+            <h2>DESARROLLO WEB ENTORNO SERVIDOR Prueba</h2> 
             <div class="caja1"></div>
         </header> 
 		<div class="contenedor">
