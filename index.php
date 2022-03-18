@@ -133,7 +133,7 @@ strong a:hover{
 		<table class="default">
                     <tr class="c1">
 			<th class="p1">Ejercicios Tema1 Johanna</th>
-                        <td><a href="doc/Ejercicios_T1_Johanna.pdf" target="_blank">
+                        <td><a href="doc/Ejercicios_T1_Johanna2.pdf" target="_blank">
 			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
                     </tr>
                     <tr>
