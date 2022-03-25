@@ -132,7 +132,7 @@ strong a:hover{
 			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
 		  </tr>
                   <tr class="c1">
-			<th class="p1">Documentacion Netbeans</th>
+			<th class="p1">Documentacion Netbeans (Tercer trimestre)</th>
                         <td><a href="doc/240322_Netbeans.pdf" target="_blank">
 			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
 		  </tr>
