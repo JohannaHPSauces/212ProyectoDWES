@@ -133,7 +133,7 @@ strong a:hover{
 		  </tr>
                   <tr class="c1">
 			<th class="p1">Documentacion Netbeans</th>
-                        <td><a href="doc/Netbeans.pdf" target="_blank">
+                        <td><a href="doc/240322_Netbeans.pdf" target="_blank">
 			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
 		  </tr>
                     <tr>

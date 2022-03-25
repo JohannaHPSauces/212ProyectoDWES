@@ -32,18 +32,20 @@ h2{
 	margin-top:0%;
 	border: 8px dotted blue;
 }
-/*caja debajo de titulo*/
-.caja1{
-        background-color:red;
-        border: 4px inset blue;
-	border-radius: 35px 0px 35px 0px;
-	-moz-border-radius: 35px 0px 35px 0px;
-	-webkit-border-radius: 35px 0px 35px 0px;
+h2:nth-of-type(2){
+        font-size: 18px;
+        width: 140px;height: 20px;
+        border: none;
+        border-radius: 50%;
 }
+h2:nth-of-type(2) a{
+    text-decoration: none;
+    color:red;
+}
+		
 			
-			
-			table {
-				margin: 5rem auto;
+table {
+    margin: 5rem auto;
 			table-layout: fixed;
 			width: 80%;
 			height:100px;
@@ -127,12 +129,13 @@ strong a:hover{
     <body>
         <header>
             <h2>EJERCICIOS TEMA1 </h2> 
+            <h2><a href="../212ProyectoDWES/indexProyectoDWES.php" >VOLVER</a></h2>
 	<div class="caja1"></div>
 	</header> 
         <main>
 		<table class="default">
                     <tr class="c1">
-			<th class="p1">Ejercicios Tema1 Johanna</th>
+			<th class="p1">Ejercicios Tema1 Johanna Actualizados</th>
                         <td><a href="doc/Ejercicios_T1_Johanna2.pdf" target="_blank">
 			<img src="../images/play1.png" class="ver" width="40" height="40" ></td>
                     </tr>
